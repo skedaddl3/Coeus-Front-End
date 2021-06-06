@@ -195,3 +195,18 @@ main {
     margin-left: .5cm;
   }
 }
+
+.rw-conversation-container .rw-header{
+  background-color: firebrick !important;
+}
+
+.rw-conversation-container .rw-client{
+     background-color: firebrick !important; 
+}
+.rw-conversation-container close-button {
+  background-color: firebrick !important;
+}
+
+.rw-launcher{
+  background-color: firebrick !important;
+}
